@@ -1,7 +1,7 @@
 {
-  "name": "ftaskrunner-mysql",
-  "version": "1.0.2",
-  "description": "MySql Fluent tasks for FTaskRunner ",
+  "name": "ftaskrunner-stirng",
+  "version": "1.0.0",
+  "description": "Strign Fluent tasks for FTaskRunner ",
   "main": "index.js",
   "dependencies": {
     "ftaskrunner":"~1.0.0"
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/javadparvaresh/FTaskRunner-MySql.git"
+    "url": "https://github.com/javadparvaresh/FTaskRunner-String.git"
   },
   "keywords": [
     "fluent",
@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javadparvaresh/FTaskRunner-MySql/issues"
+    "url": "https://github.com/javadparvaresh/FTaskRunner-String/issues"
   },
-  "homepage": "https://github.com/javadparvaresh/FTaskRunner-MySql"
+  "homepage": "https://github.com/javadparvaresh/FTaskRunner-String"
 }
