@@ -1,5 +1,5 @@
 {
-  "name": "ftaskrunner-stirng",
+  "name": "ftaskrunner-string",
   "version": "1.0.0",
   "description": "Strign Fluent tasks for FTaskRunner ",
   "main": "index.js",
